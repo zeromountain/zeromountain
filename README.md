@@ -7,3 +7,4 @@
 ![](https://raw.githubusercontent.com/zeromountain/zeromountain/master/profile-summary-card-output/vue/3-stats.svg)
 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sonyeongsan@gmail.com)](mailto:sonyeongsan@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeongsan-son-b289551b0/)](https://www.linkedin.com/in/yeongsan-son-b289551b0/)
