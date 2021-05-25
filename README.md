@@ -5,3 +5,5 @@
 ![](https://raw.githubusercontent.com/zeromountain/zeromountain/master/profile-summary-card-output/vue/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/zeromountain/zeromountain/master/profile-summary-card-output/vue/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/zeromountain/zeromountain/master/profile-summary-card-output/vue/3-stats.svg)
+
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sonyeongsan@gmail.com)](mailto:sonyeongsan@gmail.com)
