@@ -34,5 +34,5 @@
 ### contact me
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sonyeongsan@gmail.com)](mailto:yeongsan.dev@gmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeongsan-son-b289551b0/)](https://www.linkedin.com/in/yeongsan-son-b289551b0/)
-[![Velog Badge](http://img.shields.io/badge/-Tech%20blog-20c997?style=flat&link=https://velog.io/@zero_mountain)](https://velog.io/@zero_mountain)
+[![Velog Badge](http://img.shields.io/badge/-Tech%20blog-20c997?style=flat&link=https://zeromountain.netlify.app/)](https://zeromountain.netlify.app/)
 </div>
